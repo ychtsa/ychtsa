@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Bold&size=24&color=FFFFFF&center=true&vCenter=true&lines=Hi,+I'm+Yi-Chen;Software+Engineering+Student;Backend+%2B+Cloud+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Bold&size=24&color=FFFFFF&center=true&vCenter=true&lines=Hi,+I'm+Yi-Chen;Software+Engineer;" alt="Typing SVG"/>
 </p>
 
 ## 👋 Hi, I'm Yi-Chen
 
 ## 🧠 About Me
-- 💻 I'm a software engineering student with a passion for building scalable backend systems.
+- 💻 I'm a software engineer with a passion for building scalable backend systems.
 - ☁️ Enthusiastic about cloud technologies, APIs, databases, and infrastructure automation.
 - 🚀 I enjoy designing reliable backend services and exploring DevOps practices.
 - 🛠️ Currently working with Django, Flask, Node.js, PostgreSQL, and cloud platforms.
