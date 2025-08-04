@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Bold&size=24&color=FFFFFF&center=true&vCenter=true&lines=Hi,+I'm+Yi-Chen;Software+Engineer;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Bold&size=24&color=FFFFFF&center=true&vCenter=true&lines=Hi,+I'm+Yichen;Software+Engineer;" alt="Typing SVG"/>
 </p>
 
 ## 👋 Hi, I'm Yi-Chen
