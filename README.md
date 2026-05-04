@@ -8,7 +8,6 @@
 - 💻 I'm a software engineer with a passion for building scalable backend systems.
 - ☁️ Enthusiastic about cloud technologies, APIs, databases, and infrastructure automation.
 - 🚀 I enjoy designing reliable backend services and exploring DevOps practices.
-- 🛠️ Currently working with Django, Flask, Node.js, PostgreSQL, and cloud platforms.
 
 ## 🧰 Tech Stack
 
@@ -23,6 +22,7 @@
 
 ### 🧱 Frameworks & Libraries
 <p align="left">
+  <img src="./icons/dotnet.svg" width="40" height="40" alt=".NET"/>
   <img src="./icons/django.svg" width="40" height="40" alt="Django"/>
   <img src="./icons/flask.jpg" width="40" height="40" alt="Flask"/>
   <img src="./icons/nodejs.svg" width="40" height="40" alt="Node.js"/>
@@ -55,5 +55,4 @@
 - Scalable system design patterns  
 
 ## 📫 Contact Me
-- 📨 Email: yichen.ts15@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/yi-chen1tsai
+- 📨 Email: yichen.ts15@gmail.com
